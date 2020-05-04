@@ -56,7 +56,7 @@ class Validation
         }
     }
 
-    //Adds errors
+    //Adds errors.
     private function addError($error)
     {
         $this->_errors[] = $error;
